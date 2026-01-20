@@ -1,5 +1,6 @@
 # ♠️♦️ RanDOM Card Generator ♥️♣️
-Project by Sean Hammond ((LinkedIn)[https://www.linkedin.com/in/sean-w-hammond/])
+Project by Sean Hammond
+(My video for this project)[https://www.youtube.com/@hammondsoftware] | (My LinkedIn)[https://www.linkedin.com/in/sean-w-hammond/]
 
 - - - - - - - - - - - - - - - -
 
