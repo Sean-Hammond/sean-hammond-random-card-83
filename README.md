@@ -1,5 +1,6 @@
-# RanDOM Card Generator
+# ♠️♦️ RanDOM Card Generator ♥️♣️
 Project by Sean Hammond
+
 
 ## DOM? Who's DOM???
 "DOM" refers to the DOM manipulation used in this project. Would it have been easier with using OnClick? Yes, but the project was meant to get familiar with event listeners and DOM (you never know, you might use it some day...).
